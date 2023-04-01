@@ -7,38 +7,38 @@ La API debe recibir un objeto JSON con las siglas de la moneda de la siguiente f
 {"moneda":"USD"}
 ```
 ## Lista de siglas por pais
-"Turquia": "TRY"
-"Zona Euro": "EUR"
-"D.E.G.": "DEG"
-"Cuba": "CUC"
-"Australia": "AUD"
-"Jordania": "JOD"
-"Hong Kong": "HKD"
-"Japon": "JPY"
-"Israel": "ILS"
-"India": "INR"
-"Taiwan": "TWD"
-"China": "CNY"
-"Corea del Sur": "KRW"
-"Rusia": "RUB"
-"Suiza": "CHF"
-"Suecia": "SEK"
-"Reino Unido": "GBP"
-"Noruega": "NOK"
-"Dinamarca": "DKK"
-"Republica Checa": "CZK"
-"Curazao": "ANG"
-"Uruguay": "UYU"
-"Trinidad y Tobago": "TTD"
-"Republica Dominicana": "DOP"
-"Perú": "PEN"
-"Nicaragua": "NIO"
-"Mexico": "MXP"
-"Chile": "CLP"
-"Colombia": "COP"
-"Canada": "CAD"
-"Bolivia": "BOB"
-"Brasil": "BRL"
-"Argentina": "ARS"
-"E.U.A.": "USD"
-"Venezuela": "PTR"
+"Turquia": "TRY"<br>
+"Zona Euro": "EUR"<br>
+"D.E.G.": "DEG"<br>
+"Cuba": "CUC"<br>
+"Australia": "AUD"<br>
+"Jordania": "JOD"<br>
+"Hong Kong": "HKD"<br>
+"Japon": "JPY"<br>
+"Israel": "ILS"<br>
+"India": "INR"<br>
+"Taiwan": "TWD"<br>
+"China": "CNY"<br>
+"Corea del Sur": "KRW"<br>
+"Rusia": "RUB"<br>
+"Suiza": "CHF"<br>
+"Suecia": "SEK"<br>
+"Reino Unido": "GBP"<br>
+"Noruega": "NOK"<br>
+"Dinamarca": "DKK"<br>
+"Republica Checa": "CZK"<br>
+"Curazao": "ANG"<br>
+"Uruguay": "UYU"<br>
+"Trinidad y Tobago": "TTD"<br>
+"Republica Dominicana": "DOP"<br>
+"Perú": "PEN"<br>
+"Nicaragua": "NIO"<br>
+"Mexico": "MXP"<br>
+"Chile": "CLP"<br>
+"Colombia": "COP"<br>
+"Canada": "CAD"<br>
+"Bolivia": "BOB"<br>
+"Brasil": "BRL"<br>
+"Argentina": "ARS"<br>
+"E.U.A.": "USD"<br>
+"Venezuela": "PTR"<br>
