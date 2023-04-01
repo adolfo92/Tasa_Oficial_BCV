@@ -6,6 +6,17 @@ La API debe recibir un objeto JSON con las siglas de la moneda de la siguiente f
 ```json
 {"moneda":"USD"}
 ```
+
+La api va a retornar un objeto JSON de la forma
+```json
+{
+"pais":"E.U.A",
+"divisa":"USD"
+"precioCompra":"24.46428600"
+"precioVenta":"24.52560000"
+}
+```
+
 ## Lista de siglas por pais
 "Turquia": "TRY"<br>
 "Zona Euro": "EUR"<br>
