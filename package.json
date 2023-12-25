@@ -1,0 +1,28 @@
+{
+  "name": "tasa_oficial_bcv",
+  "version": "1.0.0",
+  "description": "Una API para obtener de la pagina oficial del Banco Central de Venezuela el tipo de cambio de varias monedas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolfo92/Tasa_Oficial_BCV.git"
+  },
+  "author": "Adolfo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolfo92/Tasa_Oficial_BCV/issues"
+  },
+  "homepage": "https://github.com/adolfo92/Tasa_Oficial_BCV#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "morgan": "^1.10.0",
+    "xml2js": "^0.6.2"
+  }
+}
