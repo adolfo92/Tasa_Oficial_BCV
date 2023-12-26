@@ -1,8 +1,15 @@
 # Tasa_Oficial_BCV
 Una API para obtener de la pagina oficial del Banco Central de Venezuela el tipo de cambio de varias monedas
 
+# Instalacion
+Testeado en **Nodejs** Version **18.13.0**
+
+```bash
+npm install
+```
+
 # Uso
-La API debe recibir un objeto JSON con las siglas de la moneda de la siguiente forma
+La API debe recibir un metodo **POST** objeto **JSON** con las **siglas de la moneda** de la siguiente forma
 ```json
 {"moneda":"USD"}
 ```
